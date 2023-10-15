@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120069458590",
+    "project_id": "healthify-2ba10",
+    "storage_bucket": "healthify-2ba10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120069458590:android:ecf5f31ec216372f2d098f",
+        "android_client_info": {
+          "package_name": "com.example.healthify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqHVGAsFG-41HzF08fitg_tU9p8GMAs8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
